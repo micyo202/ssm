@@ -1,6 +1,6 @@
 # 简介
-**为方便大家学习，本文章提供详细的搭建过程，仅供大家参考。**<br>
-#### 另附上本人基于SSM搭建的高效便捷开发框架，上手就能用，详情参考[https://github.com/micyo202](https://github.com/micyo202/yan_demo)
+**为方便大家学习，本文章提供详细的springMVC+spring+mybatis搭建过程，仅供大家参考。**<br>
+#### 另附上本人基于SSM搭建的高效便捷开发框架，详情参考[https://github.com/micyo202](https://github.com/micyo202/yan_demo)
 
 # 环境
 * MacOS Sierra / Windows 7
@@ -449,7 +449,7 @@ public class DemoController {
 ```
 ## 七、部署项目并启动服务（Jetty/Tomcat）
 ![6.png](http://upload-images.jianshu.io/upload_images/8015461-b0e716c6d3ca6449.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-##### 服务启动成功后输入地址[http://localhost:8888/ssm/hello](http://localhost:8888/ssm/hello)进行测试，页面将展示**Hello World！**字样，控制台输入如下信息
+##### 服务启动成功后输入地址[http://localhost:8888/ssm/hello](http://localhost:8888/ssm/hello)进行测试，页面将展示Hello World！字样，控制台(console)将输出如下信息：
 ```console
 执行hello控制器方法
 返回查询结果集 -> [{ID=1ba6d11d2639401ebf63c00c5ae7c2a0, NAME=SSM, TYPE=FRAME}]
