@@ -449,7 +449,7 @@ public class DemoController {
 ```
 ## 七、部署项目并启动服务（Jetty/Tomcat）
 ![6.png](http://upload-images.jianshu.io/upload_images/8015461-b0e716c6d3ca6449.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-##### 服务启动成功后输入地址[http://localhost:8888/ssm/hello](http://localhost:8888/ssm/hello)进行测试，页面将展示Hello World！字样，控制台(console)将输出如下信息：
+##### 服务启动成功后输入地址[http://localhost:8888/ssm/hello](http://localhost:8888/ssm/hello)进行测试，页面将展示Hello World！字样，控制台(console)将输出如下信息
 ```console
 执行hello控制器方法
 返回查询结果集 -> [{ID=1ba6d11d2639401ebf63c00c5ae7c2a0, NAME=SSM, TYPE=FRAME}]
