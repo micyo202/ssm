@@ -454,5 +454,5 @@ public class DemoController {
 执行hello控制器方法
 返回查询结果集 -> [{ID=1ba6d11d2639401ebf63c00c5ae7c2a0, NAME=SSM, TYPE=FRAME}]
 ```
-##### 到此整个框架就搭建完成了，接下来即可进入开发阶段，如果感觉不错请分享出去。
+##### 到此整个框架最基本的搭建就完成了，接下来即可进入开发阶段，如果感觉不错请分享出去。
 #### 这里推荐本人自己基于SSM搭建的高效便捷开发框架，上手就能用，详情参考[https://github.com/micyo202](https://github.com/micyo202/yan_demo)
