@@ -1,5 +1,5 @@
 # 简介
-**为方便大家学习，本文章提供使用Maven搭建springMVC+spring+mybatis的详细过程，仅供大家参考。**<br>
+**最新使用Maven搭建springMVC+spring+mybatis（SSM）的详细过程。**<br>
 #### 另附上本人基于SSM搭建的高效便捷开发框架，详情参考[https://github.com/micyo202](https://github.com/micyo202/yan_demo)
 
 # 环境
