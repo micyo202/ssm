@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.framework.version>4.3.11.RELEASE</spring.framework.version>
 		<aspectj.version>1.8.10</aspectj.version>
-		<jackson.version>2.9.1</jackson.version>
+		<jackson.version>2.9.6</jackson.version>
 		<logback.version>1.2.3</logback.version>
 	</properties>
 
